@@ -1,23 +1,25 @@
 # Objectifs journaliers
 
-## Vendredi 19/05/2023
+## Mardi 30/05/2023
 
-* [x] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
-* [x] Découvrir les conventions de nommage de son versionning avec la convention Angular : 
-* [x] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
-* [x] https://www.conventionalcommits.org/fr/v1.0.0/
-* [ ] Renommer son dernier commit en respectant cette convention
-* [x] Créer un cheat sheet sur Git
-* [x] Créer un cheat sheet sur les principales commandes du terminal
-* [x] Découvrir Gitflow
-* [x] Créer un cheat sheet sur Gitflow
-* [x] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos) 
-* [x] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
+### Première introduction au langage Javascript :
 
-
-## Optionnel
-
-* [ ] Découvrir les linters et formaters
-* [ ] Quelle est la différence entre un linter et un formater
-* [ ] Quels sont les principaux outils les plus répandus ? 
-* [ ] Est-il préférable de l'installer en global sur la machine ou indépendémment sur chaque projet ?
+- [x] Comprendre la structure du code et la syntaxe en JavaScript :
+  - [x] EcmaScript vs JavaScript
+    - [x] l'importance de la ponctuation
+    - [x] standard & environnement d'éxécution
+  - [x] ce qu'est une instruction
+  - [x] ce qu'est l'insertion automatique (ou implicite) de point-virgule
+  - [x] les commentaires
+- [x] Découvrir l'écosystème JavaScript :
+  - [x] à quoi sert use-strict et comment l'utiliser (ES5, ES6+, etc ...)
+  - [x] qu'est-ce que le TC39
+  - [x] qu'est-ce que le ECMA-262
+  - [x] quelle est la version actuelle du standard ECMAScript ?
+- [x] Comprendre le fonctionnement des variables en JavaScript (https://fr.javascript.info/variables)
+- [x] Découvrir les types de données en JavaScript (https://fr.javascript.info/types)
+- [x] Comprendre _Les conversions de types_ en JavaScript (https://fr.javascript.info/type-conversions)
+- [x] Comprendre les mécanismes des opérateurs mathématiques en JavaScript (https://fr.javascript.info/operators) :
+  - [x] concaténation
+  - [x] précédence des opérateurs
+  - [x] préfix & postfix
