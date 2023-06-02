@@ -12,7 +12,7 @@
   - [x] if else
   - [x] ternaire
 - [] Comprendre le fonctionnement des opérateurs logiques (https://fr.javascript.info/logical-operators)
-  - [] `||` (OR)
-  - [] `&&` (AND)
-  - [] `!` (NOT)
+  - [x] `||` (OR)
+  - [x] `&&` (AND)
+  - [x] `!` (NOT)
   - [] `??` (Coalescence des nulles)[https://fr.javascript.info/nullish-coalescing-operator]
